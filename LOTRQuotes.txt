@@ -3,13 +3,10 @@ Gandalf: A wizard is never late, Frodo Baggins. Nor is he early. He arrives prec
 
 Frodo Baggins: I wish the ring had never come to me. I wish none of this had happened.
 Gandalf: So do all who live to see such times. But that is not for them to decide. All we have to decide is what to do with the time that is given to us
-Gandalf: So do all who live to see such times, but that is not for them to decide. All we have to decide is what to do with the time that is given to us.
 
 Sauron: You can not hide, I see you! There is no life, after me. Only!.. Death!
-Sauron: You can not hide, I see you! There is no life, after me. Only...death!
 
 Gandalf: YOU SHALL NOT PASS!
-Gandalf: You shall not pass!
 
 Frodo Baggins: Mordor! I hope the others find a safer road.
 Samwise 'Sam' Gamgee: Strider'll look after them.
@@ -18,7 +15,6 @@ Samwise 'Sam' Gamgee: We may yet, Mr. Frodo. We may.
 Frodo Baggins: Sam? I'm glad you're with me.
 
 Bilbo Baggins: No, thank you! We don't want any more visitors, well-wishers or distant relations!
-Bilbo Baggins: No, thank you! We don't want any more visitors, well-wishers, or distant relations!
 Gandalf: And what about very old friends?
 Bilbo Baggins: Gandalf?
 Gandalf: Bilbo Baggins.
